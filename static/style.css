@@ -16,6 +16,8 @@ body {
 }
 
 p {
+  background-color:blue;
+  color:grey;
   line-height: 1.5em;
 }
 
